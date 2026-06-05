@@ -1,0 +1,37 @@
+# macOS
+
+.DS_Store
+
+# IntelliJ
+
+.idea/
+*.iml
+
+# VS Code
+
+.vscode/
+
+# React
+
+node_modules/
+dist/
+build/
+
+# Spring Boot
+
+target/
+logs/
+
+# Environment Variables
+
+.env
+.env.local
+
+# Maven Wrapper Logs
+
+.mvn/wrapper/maven-wrapper.jar
+
+# OS Files
+
+Thumbs.db
+
